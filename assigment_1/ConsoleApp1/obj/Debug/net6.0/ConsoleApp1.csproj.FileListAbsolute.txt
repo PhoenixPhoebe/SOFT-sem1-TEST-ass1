@@ -1,0 +1,14 @@
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\linew\Documents\SOFT sem1\TEST\Assignment 1\SOFT-sem1-TEST-ass1\assigment_1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
